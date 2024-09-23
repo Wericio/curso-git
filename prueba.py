@@ -1,2 +1,2 @@
-Print("Hola Mundo ya  todo el mundo - wericio")
-Print("Adios, wericio")
+print("Hola Mundo ya  todo el mundo - wericio")
+print("Adios, wericio")
